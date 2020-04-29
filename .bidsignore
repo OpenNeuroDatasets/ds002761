@@ -1,0 +1,10 @@
+*.cls
+*.cfg
+*.acq
+*.hc
+*.hist
+*.infods
+*.meg4
+*.newds
+*.res4
+
