@@ -1,10 +1,2 @@
-*.cls
-*.cfg
-*.acq
-*.hc
-*.hist
-*.infods
-*.meg4
-*.newds
-*.res4
-
+*_epi.json
+*_epi.nii.gz
