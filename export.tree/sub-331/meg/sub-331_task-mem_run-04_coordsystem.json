@@ -1,0 +1,25 @@
+{
+  "MEGCoordinateSystem": "CTF",
+  "MEGCoordinateUnits": "cm",
+  "MEGCoordinateSystemDescription": "The origin is exactly between LPA and RPA; the X-axis goes towards NAS; the Y-axis goes approximately towards LPA, orthogonal to X and in the plane spanned by the fiducials; the Z-axis goes approximately towards the vertex, orthogonal to X and Y",
+  "HeadCoilCoordinates": {
+    "coil1": [
+      9.6401,
+      0,
+      0
+    ],
+    "coil2": [
+      0.082759,
+      7.6794,
+      0
+    ],
+    "coil3": [
+      -0.082759,
+      -7.6794,
+      0
+    ]
+  },
+  "HeadCoilCoordinateSystem": "CTF",
+  "HeadCoilCoordinateUnits": "cm",
+  "HeadCoilCoordinateSystemDescription": "The origin is exactly between LPA and RPA; the X-axis goes towards NAS; the Y-axis goes approximately towards LPA, orthogonal to X and in the plane spanned by the fiducials; the Z-axis goes approximately towards the vertex, orthogonal to X and Y"
+}
