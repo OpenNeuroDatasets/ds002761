@@ -1,0 +1,1 @@
+../../../.git/annex/objects/XK/FM/MD5E-s255--20d0b9d64a8831f93ec734e1bdcb7202.cls/MD5E-s255--20d0b9d64a8831f93ec734e1bdcb7202.cls
