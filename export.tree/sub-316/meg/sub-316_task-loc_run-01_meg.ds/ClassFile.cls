@@ -1,0 +1,1 @@
+../../../.git/annex/objects/Qf/52/MD5E-s255--0a85f56d4eabb1f5df5c8e39e915e848.cls/MD5E-s255--0a85f56d4eabb1f5df5c8e39e915e848.cls
