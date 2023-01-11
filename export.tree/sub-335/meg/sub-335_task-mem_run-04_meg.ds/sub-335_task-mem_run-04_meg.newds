@@ -1,0 +1,17 @@
+// 
+// These parameters will appear in the new dataset.
+// 
+NewDatasetFields
+{
+	site:	FIL
+	system:	DSQ-3000
+	institute:	FIL
+	protocol:	default.rp
+	purpose:	
+	keywords:	
+	coefsName:	/opt/ctf/hardware/M029-3K/M029_2910.coef
+	sensName:	/opt/ctf/hardware/M029-3K/M029_2910.sens
+	appName:	Acq 6.1.14-beta-el6_8.x86_64-20180116-3847  writeCTFds  
+	systemType:	cmeg
+	bandwidth:	0.000000, 150.000000
+}
